@@ -36,7 +36,23 @@ Topics covered:
 - Flagging suspicious login activity based on IP and time rules  
 
 ### M04 – Dictionary Attack Simulation  
-- Simulates brute-force password testing using known weak passwords  
+- Simulates brute-force password testing using known weak passwords
+
+- ### M05 – Modules, Packages, and PIP
+- Created reusable modules (`math_operations`, `string_operations`) and imported them into a main script.
+- Practiced installing and using external libraries like `requests` and `numpy`.
+- Demonstrated modular thinking and API data handling.
+
+### M06 – Password Strength Meter
+- Developed a password strength checker using string methods and logical rules.
+- Evaluated complexity using criteria like length, character variety, and special characters.
+- Suggested improvements based on missing elements.
+
+### M07 – Cybersecurity Incident Tracker
+- Created an object-oriented class to track cybersecurity incidents.
+- Used class-level variables to monitor total number of incidents and financial damages.
+- Printed totals and calculated the average estimated damage across incidents.
+
 
 ---
 
