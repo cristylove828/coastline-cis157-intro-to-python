@@ -53,6 +53,12 @@ Topics covered:
 - Used class-level variables to monitor total number of incidents and financial damages.
 - Printed totals and calculated the average estimated damage across incidents.
 
+## Certifications
+
+**Python Essentials 1 Certificate** – Cisco Networking Academy  
+  [![Python Certificate](./IMG_8833.jpeg)](./IMG_8833.jpeg)
+
+
 
 ---
 
