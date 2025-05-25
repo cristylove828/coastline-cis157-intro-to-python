@@ -38,7 +38,7 @@ Topics covered:
 ### M04 – Dictionary Attack Simulation  
 - Simulates brute-force password testing using known weak passwords
 
-- ### M05 – Modules, Packages, and PIP
+### M05 – Modules, Packages, and PIP
 - Created reusable modules (`math_operations`, `string_operations`) and imported them into a main script.
 - Practiced installing and using external libraries like `requests` and `numpy`.
 - Demonstrated modular thinking and API data handling.
